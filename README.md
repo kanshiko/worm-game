@@ -1,6 +1,5 @@
 # worm-game
 just a normal worm world.
-<!DOCTYPE html>
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
